@@ -1,0 +1,8 @@
+{
+  "ntfy_channel": "dakota-notifications-claude",
+  "calendar_days_ahead": 5,
+  "email_lookback_days": 3,
+  "news_topics": ["Elon Musk", "Bitcoin", "crypto", "AI", "SpaceX", "Tesla", "Rivian", "tech"],
+  "notification_title": "Morning Brief Ready",
+  "timezone": "America/Chicago"
+}
