@@ -1,0 +1,3 @@
+# Daily briefs contain personal data (email, calendar, financial info)
+# and must not be committed to a public repository
+briefs/
